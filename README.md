@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-https://github.blog/wp-content/uploads/2020/11/97828882-616ae680-1c96-11eb-8110-4f39349b4033-1.gif?fit=1200%2C630
-
 <!--
 **hannahlauckhart/hannahlauckhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
